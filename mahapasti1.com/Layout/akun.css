@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Double+Pica+SC&display=swap');
+
+body{
+    background-color: rgb(102, 255, 47); 
+}
+nav{
+    height: 40px;
+    width: 100%;
+    font-family: "IM Fell Double Pica SC", serif;
+    background-color: rgba(208, 255, 1, 0.975);
+    border-radius: 10px;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 2px;
+    position: relative;
+}
+li{
+    margin-top: 8px;
+    list-style-type: none;
+    
+}
